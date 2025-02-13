@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: testhub/test-hub-image:latest
+          tags: isk432/testhub/test-hub-image:latest
